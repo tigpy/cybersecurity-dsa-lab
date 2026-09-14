@@ -1,4 +1,4 @@
-# Day 01 - SOC Log Analyzer
+# Day 01 - SOC Log Analyzer✌️✌️
 
 > A foundational defensive cybersecurity project bridging core Data Structures and Algorithms (DSA) with Security Operations Center (SOC) log processing workflows.
 
