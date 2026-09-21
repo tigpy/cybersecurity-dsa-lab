@@ -1,0 +1,182 @@
+08:02 | Failed Login | 192.168.1.50
+08:05 | Port Scan Detected | 10.0.0.45
+08:07 | Configuration Change | endpoint-01
+08:09 | Account Change | workstation-02
+08:11 | Failed Login | 10.0.0.14
+08:14 | Port Scan Detected | server-02
+08:16 | Unusual Authentication | 192.168.1.15
+08:21 | Port Scan Detected | workstation-03
+08:25 | Endpoint Detection | 10.0.0.5
+08:28 | Security Policy Violation | workstation-02
+08:32 | Privilege Change | 10.0.0.45
+08:35 | Endpoint Detection | 172.16.1.12
+08:37 | Successful Login | workstation-01
+08:39 | File Integrity Alert | 172.16.2.8
+08:43 | Endpoint Detection | 10.0.0.8
+08:48 | Unusual Authentication | 10.0.0.22
+08:53 | Successful Login | endpoint-01
+08:57 | Network Connection Alert | 172.16.2.8
+09:00 | Security Policy Violation | 10.0.0.14
+09:02 | Configuration Change | 192.168.1.25
+09:06 | Successful Login | 192.168.1.25
+09:08 | Suspicious DNS Request | 192.168.1.50
+09:13 | Configuration Change | 172.16.2.8
+09:16 | File Integrity Alert | 172.16.2.8
+09:19 | Configuration Change | 192.168.1.50
+09:21 | Account Change | 192.168.1.10
+09:24 | Suspicious Process | workstation-03
+09:29 | Privilege Change | endpoint-01
+09:32 | Configuration Change | 172.16.1.12
+09:34 | Port Scan Detected | 10.0.0.8
+09:38 | Suspicious DNS Request | 192.168.1.50
+09:40 | Port Scan Detected | gateway-01
+09:44 | Port Scan Detected | server-01
+09:49 | Configuration Change | workstation-03
+09:52 | Privilege Change | 10.0.0.45
+09:55 | Security Policy Violation | endpoint-01
+09:59 | Security Policy Violation | gateway-01
+10:04 | Account Change | workstation-01
+10:08 | Port Scan Detected | 10.0.0.45
+10:13 | Successful Login | 10.0.0.8
+10:15 | Suspicious Process | 192.168.1.10
+10:20 | Account Change | 10.0.0.14
+10:25 | Suspicious DNS Request | workstation-03
+10:29 | Unusual Authentication | 10.0.0.5
+10:31 | Configuration Change | endpoint-01
+INVALID EVENT
+10:35 | Endpoint Detection | 172.16.1.12
+10:37 | Privilege Change | workstation-02
+10:40 | Malware Detection | 10.0.0.5
+10:44 | Unusual Authentication | 192.168.1.10
+10:46 | Network Connection Alert | 172.16.0.4
+10:49 | Suspicious Process | 172.16.2.8
+10:52 | Unusual Authentication | server-02
+10:54 | Account Change | 172.16.1.12
+10:59 | Failed Login | 10.0.0.22
+11:03 | Network Connection Alert | 172.16.0.4
+11:06 | Failed Login | 192.168.1.25
+11:08 | Successful Login | server-01
+11:10 | Endpoint Detection | endpoint-01
+11:13 | Suspicious Process | server-01
+11:16 | Privilege Change | server-02
+11:21 | Port Scan Detected | endpoint-01
+11:24 | Security Policy Violation | 172.16.0.4
+11:29 | Configuration Change | 172.16.2.8
+11:34 | Unusual Authentication | workstation-03
+11:36 | Port Scan Detected | 192.168.1.25
+11:38 | File Integrity Alert | 10.0.0.5
+11:41 | Account Change | 192.168.1.25
+11:43 | Successful Login | 10.0.0.8
+11:46 | Successful Login | 10.0.0.8
+11:50 | Successful Login | server-02
+11:53 | Privilege Change | server-01
+11:56 | Unusual Authentication | 10.0.0.45
+12:01 | Port Scan Detected | server-01
+12:06 | Port Scan Detected | 10.0.0.22
+12:08 | Configuration Change | workstation-02
+12:12 | Suspicious DNS Request | workstation-02
+12:17 | Network Connection Alert | 10.0.0.8
+12:19 | Failed Login | workstation-01
+12:23 | Endpoint Detection | 10.0.0.22
+12:26 | Port Scan Detected | 192.168.1.15
+12:31 | Suspicious Process | workstation-02
+12:34 | Privilege Change | workstation-03
+12:37 | Network Connection Alert | 10.0.0.14
+12:42 | Endpoint Detection | endpoint-01
+12:44 | Failed Login | endpoint-01
+12:46 | Successful Login | 192.168.1.25
+12:49 | Suspicious DNS Request | server-01
+12:54 | Port Scan Detected | workstation-01
+12:56 | Suspicious Process | workstation-01
+12:58 | Suspicious DNS Request | 192.168.1.50
+13:03 | Privilege Change | workstation-02
+13:08 | Suspicious Process | 192.168.1.15
+13:12 | Port Scan Detected | 10.0.0.8
+13:14 | Security Policy Violation | 172.16.1.12
+13:16 | Failed Login | gateway-01
+13:21 | Unusual Authentication | server-02
+13:24 | Failed Login | server-02
+13:26 | Network Connection Alert | 192.168.1.10
+13:28 | Account Change | 10.0.0.14
+13:31 | Suspicious DNS Request | 10.0.0.22
+13:34 | Account Change | 10.0.0.8
+13:36 | Suspicious DNS Request | gateway-01
+13:40 | Privilege Change | 192.168.1.15
+13:44 | Port Scan Detected | 192.168.1.50
+13:49 | Suspicious Process | 172.16.0.4
+13:54 | File Integrity Alert | 10.0.0.14
+13:56 | Malware Detection | gateway-01
+13:58 | Successful Login | endpoint-01
+14:01 | Unusual Authentication | 192.168.1.50
+14:04 | File Integrity Alert | 10.0.0.14
+   
+14:07 | File Integrity Alert | 172.16.0.4
+14:10 | Malware Detection | endpoint-01
+14:14 | Account Change | server-02
+14:16 | Configuration Change | endpoint-01
+14:20 | Configuration Change | 10.0.0.22
+14:23 | Privilege Change | 10.0.0.22
+14:25 | Security Policy Violation | endpoint-01
+14:28 | Privilege Change | 172.16.0.4
+14:31 | Security Policy Violation | 172.16.1.12
+14:34 | Configuration Change | 192.168.1.50
+14:39 | Privilege Change | 10.0.0.8
+14:41 | Configuration Change | workstation-02
+14:45 | Failed Login | 10.0.0.5
+14:49 | Endpoint Detection | 10.0.0.45
+14:53 | Suspicious Process | workstation-03
+14:58 | Unusual Authentication | 10.0.0.5
+15:00 | Successful Login | 10.0.0.45
+15:02 | Network Connection Alert | 172.16.2.8
+15:05 | Suspicious DNS Request | 10.0.0.45
+15:07 | Privilege Change | 172.16.2.8
+15:09 | File Integrity Alert | 192.168.1.15
+15:12 | Configuration Change | 10.0.0.22
+15:16 | Endpoint Detection | endpoint-01
+15:21 | Account Change | 10.0.0.45
+15:24 | Network Connection Alert | 192.168.1.10
+15:27 | Suspicious DNS Request | 10.0.0.5
+15:30 | Security Policy Violation | 172.16.1.12
+15:35 | Endpoint Detection | 192.168.1.25
+15:39 | Suspicious Process | 10.0.0.22
+15:44 | Network Connection Alert | 10.0.0.8
+15:49 | Port Scan Detected | 192.168.1.15
+15:54 | File Integrity Alert | 172.16.0.4
+15:57 | Port Scan Detected | 10.0.0.5
+16:00 | Suspicious DNS Request | 172.16.1.12
+16:04 | Network Connection Alert | 10.0.0.14
+16:08 | File Integrity Alert | server-02
+16:13 | Configuration Change | endpoint-01
+16:17 | Failed Login | 10.0.0.22
+16:21 | Suspicious Process | gateway-01
+16:25 | Failed Login | 10.0.0.22
+16:30 | File Integrity Alert | 172.16.1.12
+16:35 | Account Change | server-02
+16:37 | Suspicious DNS Request | gateway-01
+16:40 | Privilege Change | 10.0.0.8
+16:45 | Failed Login | server-02
+16:48 | File Integrity Alert | workstation-02
+16:50 | Configuration Change | 172.16.1.12
+16:54 | Configuration Change | 10.0.0.22
+16:58 | Unusual Authentication | 172.16.0.4
+17:03 | File Integrity Alert | workstation-01
+17:07 | Unusual Authentication | 10.0.0.45
+17:10 | Suspicious DNS Request | workstation-01
+17:13 | Account Change | gateway-01
+17:17 | Suspicious DNS Request | endpoint-01
+17:19 | Privilege Change | 172.16.0.4
+17:22 | Suspicious DNS Request | gateway-01
+17:26 | Malware Detection | workstation-03
+17:31 | Configuration Change | 192.168.1.15
+17:36 | Endpoint Detection | 192.168.1.10
+17:38 | Privilege Change | server-02
+17:42 | Successful Login | 192.168.1.25
+17:46 | Port Scan Detected | 192.168.1.15
+17:49 | Failed Login | 10.0.0.8
+17:52 | Malware Detection | 10.0.0.14
+17:57 | Suspicious DNS Request | gateway-01
+18:00 | Security Policy Violation | workstation-01
+18:05 | Suspicious DNS Request | 192.168.1.25
+18:08 | Configuration Change | 10.0.0.5
+18:10 | Endpoint Detection | workstation-02
+18:13 | Suspicious Process | server-02
