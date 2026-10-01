@@ -1,0 +1,20 @@
+ALERT-001 severity=LOW source=10.0.0.12
+ALERT-002 severity=CRITICAL source=192.168.1.50
+ALERT-003 severity=MEDIUM source=10.0.0.25
+ALERT-004 severity=HIGH source=10.0.0.8
+ALERT-005 severity=CRITICAL source=192.168.1.75
+ALERT-006 severity=LOW source=10.0.0.30
+MALFORMED_RECORD_MISSING_SEVERITY_AND_SOURCE
+ALERT-007 severity=HIGH source=172.16.0.15
+ALERT-008 severity=MEDIUM source=10.0.0.44
+
+ALERT-009 severity=HIGH source=192.168.1.90
+ALERT-010 severity=CRITICAL source=10.0.0.99
+ALERT-011 severity=LOW source=172.16.0.22
+ALERT-012 severity=MEDIUM source=10.0.0.12
+ALERT-013 severity=UNKNOWN source=10.0.0.80
+ALERT-014 severity=CRITICAL source=192.168.1.50
+ALERT-015 severity=HIGH source=10.0.0.8
+ALERT-016 severity=MEDIUM source=172.16.0.35
+ALERT-017 severity=LOW source=192.168.1.90
+ALERT-018 severity=CRITICAL source=10.0.0.12
