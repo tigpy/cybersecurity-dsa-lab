@@ -36,7 +36,7 @@ DSA Concept ──▶ Cybersecurity Problem ──▶ Python Implementation ─�
 | **04** | [**SOC Alert Stack**](day-04-soc-alert-stack/) | Stack | LIFO-based SOC alert handling and investigation workflow | Completed |
 | **05** | [**SOC Alert Processing Queue**](day-05-soc-alert-queue/) | Queue | FIFO-based SOC alert processing and event handling | Completed |
 | **06** | [**Security Event Timeline**](day-06-security-event-timeline/) | Linked List | Chronological security event tracking and event timeline traversal | Completed |
-| **07** | Alert Severity Sorter | Sorting | Security alert prioritization and ordering | Planned |
+| **07** | [**Alert Severity Sorter**](day-07-alert-severity-sorter/) | Sorting | Security alert prioritization and ordering | Completed |
 | **08** | Fast IOC Search | Binary Search | Efficient sorted IOC lookup | Planned |
 | **09** | Traffic Pair Analyzer | Two Pointers | Network traffic relationship analysis | Planned |
 | **10** | Brute-Force Detector | Sliding Window | Time-window authentication attack detection | Planned |
